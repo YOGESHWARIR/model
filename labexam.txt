@@ -1,1 +1,2 @@
 Lab exam is on friday
+try using git bash 
