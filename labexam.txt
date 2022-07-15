@@ -1,2 +1,4 @@
 Lab exam is on friday
 try using git bash 
+os is useful
+
